@@ -1,3 +1,4 @@
+AWSTemplateFormatVersion: "2010-09-09"
 Parameters:
   myVPC:
     Description: VPC used to deploy our resources below
