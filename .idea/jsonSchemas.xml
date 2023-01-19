@@ -20,6 +20,9 @@
                   <Item>
                     <option name="path" value="challenge2.yaml" />
                   </Item>
+                  <Item>
+                    <option name="path" value="demoservers.yaml" />
+                  </Item>
                 </list>
               </option>
             </SchemaInfo>
