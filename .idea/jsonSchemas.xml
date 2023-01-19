@@ -15,13 +15,27 @@
                     <option name="path" value="challenge1.yaml" />
                   </Item>
                   <Item>
-                    <option name="path" value="challenge1-parameters.json" />
-                  </Item>
-                  <Item>
                     <option name="path" value="ourinfra.yaml" />
                   </Item>
                   <Item>
                     <option name="path" value="challenge2.yaml" />
+                  </Item>
+                </list>
+              </option>
+            </SchemaInfo>
+          </value>
+        </entry>
+        <entry key="JSON Schema version 7">
+          <value>
+            <SchemaInfo>
+              <option name="name" value="JSON Schema version 7" />
+              <option name="relativePathToSchema" value="http://json-schema.org/draft-07/schema" />
+              <option name="schemaVersion" value="JSON Schema version 7" />
+              <option name="applicationDefined" value="true" />
+              <option name="patterns">
+                <list>
+                  <Item>
+                    <option name="path" value="challenge1-parameters.json" />
                   </Item>
                 </list>
               </option>
